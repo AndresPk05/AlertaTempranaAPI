@@ -1,0 +1,6 @@
+@AlertaTempranaAPI_HostAddress = http://localhost:5245
+
+GET {{AlertaTempranaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
